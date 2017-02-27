@@ -1,0 +1,24 @@
+{
+  "name": "generator-frapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "generators/app",
+    "generators/router"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.21.2"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Frieda",
+  "license": "ISC"
+}

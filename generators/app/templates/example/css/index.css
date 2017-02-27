@@ -1,0 +1,8 @@
+.container {
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 12px;
+    font-family: Microsoft Yahei,simsun,Tahoma,Helvetica,Arial,SimHei,sans-serif;
+}
